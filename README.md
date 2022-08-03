@@ -34,7 +34,7 @@ npm run dev
 http://localhost:5173/
 ```
 
-## Image of prohect
+## Image of project
 
 <img style="width: 600px; height: 300px " src="./public/images/print.png">
 
